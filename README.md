@@ -9,33 +9,15 @@
 <p align="left">
   <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api?username=38kta-lab&layout=donut&show_icons=true&theme=radical" />
   <img alt="github stats" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=38kta-lab&show_icons=true&theme=radical" />
+   <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=38kta-lab&theme=2077">
 </p>
 
 <!-- 2. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,r,docker,neovim,html" />
 <br>
-
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-- 🧑‍💻 
-- 🌱 
-<br>
-
-
-
-
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## Status
-<p align="left">
-  <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api?username=38kta-lab&layout=donut&show_icons=true&theme=radical" />
-  <img alt="github stats" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=38kta-lab&show_icons=true&theme=radical" />
-</p>
 
 
 <!--
