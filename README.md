@@ -7,9 +7,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## Status
 <p align="left">
-  <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api?username=38kta-lab&layout=donut&show_icons=true&theme=radical" />
+  <img alt="contributions" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=38kta-lab&theme=2077" />
   <img alt="github stats" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=38kta-lab&show_icons=true&theme=radical" />
-   <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=38kta-lab&theme=2077">
 </p>
 
 <!-- 2. 好きな技術スタックに変更 -->
